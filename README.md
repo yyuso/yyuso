@@ -3,7 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yyuso&label=Profile%20views&color=0e75b6&style=flat" alt="yyuso" /> </p>
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31xum7cvfgvuybc2ksxxo5qvfb7e&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
-
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yyuso" alt="yyuso" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
