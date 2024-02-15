@@ -6,7 +6,7 @@
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31xum7cvfgvuybc2ksxxo5qvfb7e&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
+<p align="left" style="display:flex;">
 <a href="https://linkedin.com/in/yusufbaransalman" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yusuf baran salman" height="30" width="40" /></a>
   
 <a href="https://x.com/yyuso35" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter-alt.svg" alt="yusuf baran salman" height="30" width="40" /></a>
